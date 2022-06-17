@@ -17,7 +17,6 @@ while True:
             first_coord = pygame.mouse.get_pos()
         if event.type == MOUSEBUTTONUP:
             selected = False
-
     
     display.fill("black")
 
